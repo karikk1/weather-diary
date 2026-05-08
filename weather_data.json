@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "date": "2026-05-08",
+        "temperature": 26.0,
+        "description": "солнечно",
+        "precipitation": false
+    },
+    {
+        "id": 2,
+        "date": "2026-05-09",
+        "temperature": 15.0,
+        "description": "солнечно",
+        "precipitation": false
+    }
+]
